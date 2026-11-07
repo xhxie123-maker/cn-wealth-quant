@@ -1,0 +1,146 @@
+{
+  "as_of": "2026-06-30",
+  "state": "RED",
+  "passed": false,
+  "system_halt": false,
+  "vetoes": [
+    {
+      "code": "drawdown_emergency",
+      "name": "回撤-紧急",
+      "level": "RED",
+      "passed": false,
+      "value": 0.2210900752642716,
+      "limit": 0.18,
+      "message": "回撤达到紧急阈值，需强制降仓至防御资产"
+    },
+    {
+      "code": "volatility_spike",
+      "name": "波动率突升",
+      "level": "YELLOW",
+      "passed": false,
+      "value": 2.136292576639597,
+      "limit": 1.8,
+      "message": "近期波动显著高于中期水平"
+    }
+  ],
+  "checks": [
+    {
+      "code": "data_integrity",
+      "name": "数据完整性",
+      "level": "GREEN",
+      "passed": true,
+      "value": 0,
+      "limit": 0,
+      "message": "数据质量检查通过"
+    },
+    {
+      "code": "single_asset_weight",
+      "name": "单资产权重",
+      "level": "GREEN",
+      "passed": true,
+      "value": 0.05,
+      "limit": 0.2,
+      "message": "单资产权重在限内"
+    },
+    {
+      "code": "concentration_hhi",
+      "name": "集中度 HHI",
+      "level": "GREEN",
+      "passed": true,
+      "value": 0.25,
+      "limit": 0.3,
+      "message": "集中度正常"
+    },
+    {
+      "code": "assets_above_5pct",
+      "name": "5% 以上持仓数量",
+      "level": "GREEN",
+      "passed": true,
+      "value": 4,
+      "limit": 8,
+      "message": "持仓分散度正常"
+    },
+    {
+      "code": "sector_weight",
+      "name": "行业集中度",
+      "level": "GREEN",
+      "passed": true,
+      "value": 0.05,
+      "limit": 0.35,
+      "message": "行业集中度正常"
+    },
+    {
+      "code": "portfolio_exposure",
+      "name": "总仓位",
+      "level": "GREEN",
+      "passed": true,
+      "value": 0.2,
+      "limit": 0.98,
+      "message": "总仓位在限内"
+    },
+    {
+      "code": "leverage",
+      "name": "杠杆",
+      "level": "GREEN",
+      "passed": true,
+      "value": 0.2,
+      "limit": 1.0,
+      "message": "无杠杆"
+    },
+    {
+      "code": "drawdown_emergency",
+      "name": "回撤-紧急",
+      "level": "RED",
+      "passed": false,
+      "value": 0.2210900752642716,
+      "limit": 0.18,
+      "message": "回撤达到紧急阈值，需强制降仓至防御资产"
+    },
+    {
+      "code": "var_95",
+      "name": "1日 95% VaR",
+      "level": "GREEN",
+      "passed": true,
+      "value": -0.0030937347852299834,
+      "limit": -0.035,
+      "message": "VaR 在限内"
+    },
+    {
+      "code": "es_95",
+      "name": "1日 95% ES",
+      "level": "GREEN",
+      "passed": true,
+      "value": -0.009290375329735224,
+      "limit": -0.055,
+      "message": "ES 在限内"
+    },
+    {
+      "code": "volatility_spike",
+      "name": "波动率突升",
+      "level": "YELLOW",
+      "passed": false,
+      "value": 2.136292576639597,
+      "limit": 1.8,
+      "message": "近期波动显著高于中期水平"
+    },
+    {
+      "code": "correlation",
+      "name": "资产相关性",
+      "level": "GREEN",
+      "passed": true,
+      "value": 0.6708210185213138,
+      "limit": 0.85,
+      "message": "相关性正常"
+    }
+  ],
+  "metrics": {
+    "hhi": 0.25,
+    "max_sector_weight": 0.05,
+    "exposure": 0.2,
+    "drawdown": 0.2210900752642716,
+    "var_95": -0.0030937347852299834,
+    "es_95": -0.009290375329735224,
+    "volatility_ratio": 2.136292576639597,
+    "max_pairwise_correlation": 0.6708210185213138
+  }
+}

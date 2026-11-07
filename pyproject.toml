@@ -1,0 +1,38 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cn-wealth-quant"
+version = "1.0.0"
+description = "中国市场稳健理财量化投资辅助决策系统（人工确认，不自动下单）"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "xhxie123-maker" }]
+keywords = ["quant", "wealth-management", "china-market", "risk-control", "backtest"]
+dependencies = [
+  "numpy>=1.26",
+  "pandas>=2.2",
+  "PyYAML>=6.0",
+]
+
+[project.optional-dependencies]
+ui = ["streamlit>=1.40"]
+db = ["duckdb>=1.1", "SQLAlchemy>=2.0", "psycopg[binary]>=3.2"]
+data = ["akshare>=1.14"]
+dev = ["pytest>=8.0", "pytest-cov>=5.0", "ruff>=0.6"]
+
+[project.scripts]
+wealth-quant = "wealth_quant.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.ruff]
+line-length = 110
+target-version = "py311"

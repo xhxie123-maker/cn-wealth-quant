@@ -1,0 +1,11 @@
+﻿instrument_id,name,asset_type,exchange,board,industry,is_st,shares_outstanding,list_date,delist_date
+600519.SH,示例白酒,stock,SSE,main,食品饮料,False,2000000000.0,,
+601318.SH,示例保险,stock,SSE,main,非银金融,False,2000000000.0,,
+600036.SH,示例银行,stock,SSE,main,银行,False,2000000000.0,,
+000333.SZ,示例家电,stock,SZSE,main,家用电器,False,2000000000.0,,
+300750.SZ,示例成长,stock,SZSE,chinext,电力设备,False,2000000000.0,,
+510300.SH,沪深300ETF,etf,SSE,etf,宽基指数,False,2000000000.0,,
+510500.SH,中证500ETF,etf,SSE,etf,宽基指数,False,2000000000.0,,
+511010.SH,国债ETF,bond_etf,SSE,etf,利率债,False,2000000000.0,,
+511880.SH,货币ETF,money_etf,SSE,etf,货币,False,2000000000.0,,
+518880.SH,黄金ETF,gold_etf,SSE,etf,黄金,False,2000000000.0,,

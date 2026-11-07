@@ -1,0 +1,13 @@
+# 示例投资域（演示用虚构标的；接入真实数据时替换为实际代码）
+# asset_type: stock | etf | bond_etf | money_etf | gold_etf | crossborder_etf | bond
+instruments:
+  - { id: 600519.SH, name: 示例白酒, asset_type: stock, exchange: SSE, board: main, industry: 食品饮料, is_st: false }
+  - { id: 601318.SH, name: 示例保险, asset_type: stock, exchange: SSE, board: main, industry: 非银金融, is_st: false }
+  - { id: 600036.SH, name: 示例银行, asset_type: stock, exchange: SSE, board: main, industry: 银行, is_st: false }
+  - { id: 000333.SZ, name: 示例家电, asset_type: stock, exchange: SZSE, board: main, industry: 家用电器, is_st: false }
+  - { id: 300750.SZ, name: 示例成长, asset_type: stock, exchange: SZSE, board: chinext, industry: 电力设备, is_st: false }
+  - { id: 510300.SH, name: 沪深300ETF, asset_type: etf, exchange: SSE, board: etf, industry: 宽基指数, is_st: false }
+  - { id: 510500.SH, name: 中证500ETF, asset_type: etf, exchange: SSE, board: etf, industry: 宽基指数, is_st: false }
+  - { id: 511010.SH, name: 国债ETF, asset_type: bond_etf, exchange: SSE, board: etf, industry: 利率债, is_st: false }
+  - { id: 511880.SH, name: 货币ETF, asset_type: money_etf, exchange: SSE, board: etf, industry: 货币, is_st: false }
+  - { id: 518880.SH, name: 黄金ETF, asset_type: gold_etf, exchange: SSE, board: etf, industry: 黄金, is_st: false }

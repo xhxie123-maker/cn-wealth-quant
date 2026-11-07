@@ -1,0 +1,2 @@
+﻿check,severity,message,instrument_id,count,samples
+extreme_return,WARN,单日涨跌幅异常，需核对除权或数据错误,300750.SZ,1,2023-06-15

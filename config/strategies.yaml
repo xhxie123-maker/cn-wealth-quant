@@ -1,0 +1,56 @@
+# 策略登记表：每个策略必须有独立版本号，参数变更必须新增版本，禁止覆盖旧版本回测结果。
+strategies:
+  DUAL_MOMENTUM_V1:
+    name: 双动量趋势策略
+    version: 1.0.0
+    class: dual_momentum
+    horizon: 中期(1-12个月)
+    rebalance: monthly
+    params:
+      lookback_days: 252
+      skip_days: 21
+      top_n: 4
+      ma_filter_days: 200
+      min_momentum: 0.0
+      risk_weighting: risk_parity
+    description: 12-1 动量 + 长期均线过滤，用风险平价在入选资产间分配风险预算。
+
+  VALUE_QUALITY_V1:
+    name: 价值质量复合策略
+    version: 1.0.0
+    class: value_quality
+    horizon: 中期(1-12个月)
+    rebalance: quarterly
+    params:
+      top_n: 4
+      min_coverage: 0.6
+      weights:
+        value: 0.40
+        quality: 0.40
+        low_vol: 0.20
+    description: 以 point-in-time 财务数据构建价值与质量得分，叠加低波动约束。
+
+  LOW_VOL_CORE_V1:
+    name: 低波动核心组合
+    version: 1.0.0
+    class: low_vol
+    horizon: 中期(1-12个月)
+    rebalance: monthly
+    params:
+      lookback_days: 120
+      top_n: 5
+      max_weight: 0.25
+    description: 选取历史波动最低的一篮子资产，按风险平价配置，强调回撤控制。
+
+  ETF_ROTATION_V1:
+    name: ETF 动量轮动
+    version: 1.0.0
+    class: etf_rotation
+    horizon: 中期(1-12个月)
+    rebalance: monthly
+    params:
+      lookback_days: 120
+      skip_days: 5
+      top_n: 3
+      ma_filter_days: 120
+    description: 仅在 ETF/债券 ETF/货币 ETF 池内轮动，降低个股风险暴露。

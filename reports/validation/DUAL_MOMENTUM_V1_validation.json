@@ -1,0 +1,161 @@
+{
+  "strategy_id": "DUAL_MOMENTUM_V1",
+  "is": {
+    "start": "2021-01-04",
+    "end": "2024-11-04",
+    "days": 930,
+    "cagr": -0.05327632337225141,
+    "annualized_volatility": 0.06159836088537595,
+    "sharpe": -1.10130076769221,
+    "sortino": -1.3966583805537562,
+    "max_drawdown": -0.22318804665240288,
+    "max_drawdown_peak": "2022-05-18",
+    "max_drawdown_trough": "2024-07-22",
+    "max_drawdown_recovery": null,
+    "calmar": -0.23870598883471983,
+    "var_95": -0.004567993646419816,
+    "es_95": -0.011623882481959759,
+    "var_99": -0.015228925253519132,
+    "es_99": -0.021056688436818637,
+    "beta": NaN,
+    "alpha": NaN,
+    "information_ratio": NaN,
+    "win_rate": NaN,
+    "trades": 0,
+    "final_nav": 817234.6652442322,
+    "total_return": -0.18276533475576784
+  },
+  "oos": {
+    "start": "2024-11-05",
+    "end": "2026-06-30",
+    "days": 400,
+    "cagr": -0.004938258382594762,
+    "annualized_volatility": 0.014381762265263418,
+    "sharpe": -1.3800111634072638,
+    "sortino": -1.813538250153111,
+    "max_drawdown": -0.01965284106683063,
+    "max_drawdown_peak": "2024-11-06",
+    "max_drawdown_trough": "2026-06-03",
+    "max_drawdown_recovery": null,
+    "calmar": -0.2512745290007652,
+    "var_95": -0.0010809046749488788,
+    "es_95": -0.002400837002723505,
+    "var_99": -0.003406464843396903,
+    "es_99": -0.004617075766186446,
+    "beta": NaN,
+    "alpha": NaN,
+    "information_ratio": NaN,
+    "win_rate": NaN,
+    "trades": 0,
+    "final_nav": 809533.1324570617,
+    "total_return": -0.007807639595045046
+  },
+  "full": {
+    "start": "2021-01-04",
+    "end": "2026-06-30",
+    "days": 1330,
+    "cagr": -0.039273447082688095,
+    "annualized_volatility": 0.052122633089298924,
+    "sharpe": -1.0302474865265534,
+    "sortino": -1.3079294652471563,
+    "max_drawdown": -0.22836489295603457,
+    "max_drawdown_peak": "2022-05-18",
+    "max_drawdown_trough": "2026-06-03",
+    "max_drawdown_recovery": null,
+    "calmar": -0.1719767280089288,
+    "var_95": -0.003093910124603182,
+    "es_95": -0.009290409243391782,
+    "var_99": -0.01382470186769737,
+    "es_99": -0.019127943116547887,
+    "beta": 0.052058494127566426,
+    "alpha": -0.02925960596280386,
+    "information_ratio": 0.46945892516634236,
+    "win_rate": 0.4117647058823529,
+    "trades": 108,
+    "final_nav": 809533.1324570617,
+    "total_return": -0.1904668675429383,
+    "annualized_turnover": 1.2730050143887106,
+    "average_nav": 871595.514714929
+  },
+  "pbo": {
+    "pbo": 0.49603174603174605,
+    "n_trials": 9,
+    "n_splits": 252,
+    "median_oos_rank": 0.6666666666666666,
+    "interpretation": "PBO 越低越稳健；>0.5 表示样本内最优策略在样本外大概率不再最优"
+  },
+  "trials": [
+    {
+      "lookback_days": 126,
+      "skip_days": 21,
+      "top_n": 3,
+      "ma_filter_days": 200,
+      "min_momentum": 0.0,
+      "risk_weighting": "risk_parity"
+    },
+    {
+      "lookback_days": 126,
+      "skip_days": 21,
+      "top_n": 4,
+      "ma_filter_days": 200,
+      "min_momentum": 0.0,
+      "risk_weighting": "risk_parity"
+    },
+    {
+      "lookback_days": 126,
+      "skip_days": 21,
+      "top_n": 5,
+      "ma_filter_days": 200,
+      "min_momentum": 0.0,
+      "risk_weighting": "risk_parity"
+    },
+    {
+      "lookback_days": 189,
+      "skip_days": 21,
+      "top_n": 3,
+      "ma_filter_days": 200,
+      "min_momentum": 0.0,
+      "risk_weighting": "risk_parity"
+    },
+    {
+      "lookback_days": 189,
+      "skip_days": 21,
+      "top_n": 4,
+      "ma_filter_days": 200,
+      "min_momentum": 0.0,
+      "risk_weighting": "risk_parity"
+    },
+    {
+      "lookback_days": 189,
+      "skip_days": 21,
+      "top_n": 5,
+      "ma_filter_days": 200,
+      "min_momentum": 0.0,
+      "risk_weighting": "risk_parity"
+    },
+    {
+      "lookback_days": 252,
+      "skip_days": 21,
+      "top_n": 3,
+      "ma_filter_days": 200,
+      "min_momentum": 0.0,
+      "risk_weighting": "risk_parity"
+    },
+    {
+      "lookback_days": 252,
+      "skip_days": 21,
+      "top_n": 4,
+      "ma_filter_days": 200,
+      "min_momentum": 0.0,
+      "risk_weighting": "risk_parity"
+    },
+    {
+      "lookback_days": 252,
+      "skip_days": 21,
+      "top_n": 5,
+      "ma_filter_days": 200,
+      "min_momentum": 0.0,
+      "risk_weighting": "risk_parity"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+# 核心运行依赖（MVP 必需）
+numpy>=1.26
+pandas>=2.2
+PyYAML>=6.0
+
+# 可视化界面（可选）
+streamlit>=1.40
+
+# 数据库 / 分析加速（可选）
+duckdb>=1.1
+SQLAlchemy>=2.0
+psycopg[binary]>=3.2
+
+# 真实行情接入（可选；离线演示不需要）
+akshare>=1.14
+
+# 测试
+pytest>=8.0

@@ -1,0 +1,16 @@
+{
+  "start": "2021-01-04",
+  "end": "2026-06-30",
+  "initial_cash": 1000000.0,
+  "rebalance_frequency": "monthly",
+  "execution": "next_open",
+  "costs": {
+    "commission_rate": 0.00025,
+    "commission_min": 5.0,
+    "stamp_duty_rate": 0.0005,
+    "transfer_fee_rate": 1e-05,
+    "slippage_bps": 8.0,
+    "market_impact_coef": 0.1,
+    "max_participation_rate": 0.1
+  }
+}

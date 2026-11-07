@@ -1,0 +1,67 @@
+# 独立风控政策（Risk Policy）
+# 设计要点：风控参数与策略代码分离；风控引擎拥有对策略建议的一票否决权。
+# 下列数值仅为“可运行示例”，不构成投资建议，必须由投资者按自身情况校准。
+
+version: RISK_POLICY_V1.0
+authority:
+  veto_enabled: true              # 风控可否决策略建议
+  strategy_cannot_override: true  # 策略模块不得绕过或改写风控结论
+  human_approval_required: true
+  automatic_execution: false
+
+leverage:
+  enabled: false
+  max_gross_exposure: 1.00
+
+short_selling:
+  enabled: false
+
+position_limits:
+  max_single_asset_weight: 0.20
+  max_sector_weight: 0.35
+  max_portfolio_exposure: 0.98      # 至少保留 2% 现金
+  max_single_order_weight: 0.10
+  min_liquidity_amount_cny: 20000000
+
+drawdown_control:
+  warning_threshold: 0.08           # 策略回撤 8% → YELLOW
+  reduce_risk_threshold: 0.12       # 回撤 12% → RED，禁止新增总敞口并压降至目标上限
+  reduce_risk_target_exposure: 0.40 # RED 时总敞口上限（在“当前敞口”和该值之间取小）
+  reduce_risk_floor_exposure: 0.20  # RED 时的防御性下限，避免清仓后 RED 永久锁死
+  emergency_threshold: 0.18         # 回撤 18% → 强制降仓至防御资产
+  emergency_target_exposure: 0.30
+
+trading_limits:
+  max_daily_turnover: 0.30          # 单日换手上限（双边/NAV）
+  max_order_size_cny: 200000
+  max_slippage_bps: 25
+  max_monthly_turnover: 1.50
+  min_rebalance_interval_days: 5
+
+concentration:
+  max_assets_above_5pct: 8
+  max_hhi: 0.30
+  max_pairwise_correlation: 0.85
+
+data_protection:
+  reject_stale_data: true
+  reject_missing_market_data: true
+  max_stale_trading_days: 3
+  max_nav_gap_days: 3
+
+market_risk:
+  volatility_spike_ratio: 1.80      # 20日波动 / 120日波动 超过该值 → 高波动状态
+  correlation_spike_level: 0.80
+  var_95_limit: 0.035               # 组合 1 日 95% VaR 上限（占 NAV）
+  es_95_limit: 0.055
+
+system_risk:
+  halt_on_data_outage: true
+  halt_on_nav_mismatch: true
+  nav_tolerance_cny: 100.0
+  halt_on_risk_service_failure: true
+
+state_thresholds:
+  yellow_score: 1
+  red_score: 2
+  halt_on_system_issue: true

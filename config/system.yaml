@@ -1,0 +1,77 @@
+# 中国市场稳健理财量化决策系统 — 主配置
+# 所有参数均为示例起点，正式使用前必须由投资者按自身风险承受能力校准。
+project:
+  name: 中国市场稳健理财量化投资辅助决策系统
+  code: CN-WQDS
+  version: 1.0.0
+  base_currency: CNY
+  market: CN
+  mode: decision_support_manual_confirm   # 仅辅助决策，人工确认；系统不具备下单权限
+  timezone: Asia/Shanghai
+
+data:
+  source: sample                # sample | csv | akshare
+  sample_dir: data/sample
+  csv_dir: data/raw
+  max_stale_days: 3             # 行情超过 N 个交易日未更新即拒绝生成建议
+  min_history_days: 260         # 因子/回测最少历史长度
+  strict_pit: true              # 强制 point-in-time：available_at <= 决策时点
+  reject_on_quality_error: true
+
+market:
+  exchanges: [SSE, SZSE]
+  benchmark: 000300.SH
+  trading_calendar: data/sample/trading_calendar.csv
+  risk_free_rate: 0.015         # 一年期无风险利率（示例）
+
+universe:
+  include_asset_types: [stock, etf, bond_etf, money_etf]
+  exclude_st: true
+  min_avg_amount_cny: 20000000
+  max_instruments: 12
+
+portfolio:
+  initial_cash: 1000000.0
+  rebalance_frequency: monthly     # daily | weekly | monthly
+  lot_size_default: 100
+  cash_buffer: 0.02                # 常备现金比例，防止满仓无法支付费用
+  min_trade_notional: 1000.0
+
+costs:
+  commission_rate: 0.00025
+  commission_min: 5.0
+  stamp_duty_rate: 0.0005          # 仅股票卖出收取；ETF/债券基金免征
+  transfer_fee_rate: 0.00001       # 沪深过户费，双向
+  slippage_bps: 8
+  market_impact_coef: 0.10         # 冲击成本 = 系数 * sqrt(订单额/日均成交额)
+  max_participation_rate: 0.10     # 单日成交不超过标的成交量的 10%
+
+strategy:
+  active: DUAL_MOMENTUM_V1
+  config_file: config/strategies.yaml
+
+risk:
+  policy_file: config/risk_policy.yaml
+
+backtest:
+  start: 2021-01-04
+  end: 2026-06-30
+  execution: next_open             # 信号日收盘计算，下一交易日开盘成交
+  benchmark: 000300.SH
+  walk_forward:
+    train_days: 504
+    test_days: 126
+    step_days: 126
+  pbo:
+    partitions: 10                 # S，必须为偶数
+    max_trials: 12
+
+decision:
+  min_weight_change: 0.02          # 目标与当前权重差小于该阈值视为“持有”，抑制过度换手
+  max_cards: 20
+  require_risk_approval: true
+  store_audit: true
+
+ui:
+  reports_dir: reports
+  title: 稳健理财量化决策台

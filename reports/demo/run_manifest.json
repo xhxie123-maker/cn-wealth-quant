@@ -1,0 +1,94 @@
+{
+  "project": "中国市场稳健理财量化投资辅助决策系统",
+  "version": "1.0.0",
+  "run_at": "2026-11-07T17:20:50",
+  "data_source": "C:\\Users\\31109\\Doubao\\chats\\2026-11-07\\new-chat\\cn-wealth-quant\\data\\sample",
+  "data_start": "2021-01-04",
+  "data_end": "2026-06-30",
+  "strategy_id": "DUAL_MOMENTUM_V1",
+  "strategy": {
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "name": "双动量趋势策略",
+    "version": "1.0.0",
+    "class": "dual_momentum",
+    "horizon": "中期(1-12个月)",
+    "rebalance": "monthly",
+    "params_hash": "2b53bc0f5d5a",
+    "description": "12-1 动量 + 长期均线过滤，用风险平价在入选资产间分配风险预算。"
+  },
+  "strategy_snapshot": {
+    "captured_at": "2026-11-07T17:20:50",
+    "strategies": [
+      {
+        "strategy_id": "DUAL_MOMENTUM_V1",
+        "name": "双动量趋势策略",
+        "version": "1.0.0",
+        "class": "dual_momentum",
+        "horizon": "中期(1-12个月)",
+        "rebalance": "monthly",
+        "params_hash": "2b53bc0f5d5a",
+        "description": "12-1 动量 + 长期均线过滤，用风险平价在入选资产间分配风险预算。"
+      },
+      {
+        "strategy_id": "VALUE_QUALITY_V1",
+        "name": "价值质量复合策略",
+        "version": "1.0.0",
+        "class": "value_quality",
+        "horizon": "中期(1-12个月)",
+        "rebalance": "quarterly",
+        "params_hash": "e957483281a6",
+        "description": "以 point-in-time 财务数据构建价值与质量得分，叠加低波动约束。"
+      },
+      {
+        "strategy_id": "LOW_VOL_CORE_V1",
+        "name": "低波动核心组合",
+        "version": "1.0.0",
+        "class": "low_vol",
+        "horizon": "中期(1-12个月)",
+        "rebalance": "monthly",
+        "params_hash": "76e2f2f6a133",
+        "description": "选取历史波动最低的一篮子资产，按风险平价配置，强调回撤控制。"
+      },
+      {
+        "strategy_id": "ETF_ROTATION_V1",
+        "name": "ETF 动量轮动",
+        "version": "1.0.0",
+        "class": "etf_rotation",
+        "horizon": "中期(1-12个月)",
+        "rebalance": "monthly",
+        "params_hash": "9e849168e4f9",
+        "description": "仅在 ETF/债券 ETF/货币 ETF 池内轮动，降低个股风险暴露。"
+      }
+    ],
+    "digest": "1548a53e597375f2"
+  },
+  "risk_policy_version": "RISK_POLICY_V1.0",
+  "config_digest": "40fed12290e74284",
+  "metrics_digest": {
+    "start": "2021-01-04",
+    "end": "2026-06-30",
+    "days": 1330,
+    "cagr": -0.03926469951629019,
+    "annualized_volatility": 0.052122404731348125,
+    "sharpe": -1.0300775684270633,
+    "sortino": -1.3077146668285131,
+    "max_drawdown": -0.22832749165350474,
+    "max_drawdown_peak": "2022-05-18",
+    "max_drawdown_trough": "2026-06-03",
+    "max_drawdown_recovery": null,
+    "calmar": -0.17196658725562403,
+    "var_95": -0.0030937347852299834,
+    "es_95": -0.009290375329735224,
+    "var_99": -0.01382470186769737,
+    "es_99": -0.019127943116547887,
+    "beta": 0.052055814052679124,
+    "alpha": -0.029251229175692783,
+    "information_ratio": 0.46948942407865746,
+    "win_rate": 0.4117647058823529,
+    "trades": 108,
+    "final_nav": 809572.0060758939,
+    "total_return": -0.19042799392410614,
+    "annualized_turnover": 1.2729587896593153,
+    "average_nav": 871622.7813862194
+  }
+}

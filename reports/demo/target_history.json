@@ -1,0 +1,2400 @@
+[
+  {
+    "date": "2021-01-29",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {},
+    "approved_weights": {},
+    "cash_weight": 1.0,
+    "risk_state": "GREEN",
+    "risk_approved": true,
+    "risk_reasons": [],
+    "orders": 0,
+    "diagnostics": {
+      "eligible": [],
+      "filtered": [],
+      "panel_rows": 20,
+      "reason": "历史数据不足"
+    }
+  },
+  {
+    "date": "2021-02-26",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {},
+    "approved_weights": {},
+    "cash_weight": 1.0,
+    "risk_state": "GREEN",
+    "risk_approved": true,
+    "risk_reasons": [],
+    "orders": 0,
+    "diagnostics": {
+      "eligible": [],
+      "filtered": [],
+      "panel_rows": 35,
+      "reason": "历史数据不足"
+    }
+  },
+  {
+    "date": "2021-03-31",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {},
+    "approved_weights": {},
+    "cash_weight": 1.0,
+    "risk_state": "GREEN",
+    "risk_approved": true,
+    "risk_reasons": [],
+    "orders": 0,
+    "diagnostics": {
+      "eligible": [],
+      "filtered": [],
+      "panel_rows": 58,
+      "reason": "历史数据不足"
+    }
+  },
+  {
+    "date": "2021-04-30",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {},
+    "approved_weights": {},
+    "cash_weight": 1.0,
+    "risk_state": "GREEN",
+    "risk_approved": true,
+    "risk_reasons": [],
+    "orders": 0,
+    "diagnostics": {
+      "eligible": [],
+      "filtered": [],
+      "panel_rows": 79,
+      "reason": "历史数据不足"
+    }
+  },
+  {
+    "date": "2021-05-31",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {},
+    "approved_weights": {},
+    "cash_weight": 1.0,
+    "risk_state": "GREEN",
+    "risk_approved": true,
+    "risk_reasons": [],
+    "orders": 0,
+    "diagnostics": {
+      "eligible": [],
+      "filtered": [],
+      "panel_rows": 99,
+      "reason": "历史数据不足"
+    }
+  },
+  {
+    "date": "2021-06-30",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {},
+    "approved_weights": {},
+    "cash_weight": 1.0,
+    "risk_state": "GREEN",
+    "risk_approved": true,
+    "risk_reasons": [],
+    "orders": 0,
+    "diagnostics": {
+      "eligible": [],
+      "filtered": [],
+      "panel_rows": 120,
+      "reason": "历史数据不足"
+    }
+  },
+  {
+    "date": "2021-07-30",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {},
+    "approved_weights": {},
+    "cash_weight": 1.0,
+    "risk_state": "GREEN",
+    "risk_approved": true,
+    "risk_reasons": [],
+    "orders": 0,
+    "diagnostics": {
+      "eligible": [],
+      "filtered": [],
+      "panel_rows": 142,
+      "reason": "历史数据不足"
+    }
+  },
+  {
+    "date": "2021-08-31",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {},
+    "approved_weights": {},
+    "cash_weight": 1.0,
+    "risk_state": "GREEN",
+    "risk_approved": true,
+    "risk_reasons": [],
+    "orders": 0,
+    "diagnostics": {
+      "eligible": [],
+      "filtered": [],
+      "panel_rows": 164,
+      "reason": "历史数据不足"
+    }
+  },
+  {
+    "date": "2021-09-30",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {},
+    "approved_weights": {},
+    "cash_weight": 1.0,
+    "risk_state": "GREEN",
+    "risk_approved": true,
+    "risk_reasons": [],
+    "orders": 0,
+    "diagnostics": {
+      "eligible": [],
+      "filtered": [],
+      "panel_rows": 184,
+      "reason": "历史数据不足"
+    }
+  },
+  {
+    "date": "2021-10-29",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {},
+    "approved_weights": {},
+    "cash_weight": 1.0,
+    "risk_state": "GREEN",
+    "risk_approved": true,
+    "risk_reasons": [],
+    "orders": 0,
+    "diagnostics": {
+      "eligible": [],
+      "filtered": [],
+      "panel_rows": 200,
+      "reason": "历史数据不足"
+    }
+  },
+  {
+    "date": "2021-11-30",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {},
+    "approved_weights": {},
+    "cash_weight": 1.0,
+    "risk_state": "GREEN",
+    "risk_approved": true,
+    "risk_reasons": [],
+    "orders": 0,
+    "diagnostics": {
+      "eligible": [],
+      "filtered": [],
+      "panel_rows": 222,
+      "reason": "历史数据不足"
+    }
+  },
+  {
+    "date": "2021-12-31",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {},
+    "approved_weights": {},
+    "cash_weight": 1.0,
+    "risk_state": "GREEN",
+    "risk_approved": true,
+    "risk_reasons": [],
+    "orders": 0,
+    "diagnostics": {
+      "eligible": [],
+      "filtered": [],
+      "panel_rows": 245,
+      "reason": "历史数据不足"
+    }
+  },
+  {
+    "date": "2022-01-28",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {},
+    "approved_weights": {},
+    "cash_weight": 1.0,
+    "risk_state": "GREEN",
+    "risk_approved": true,
+    "risk_reasons": [],
+    "orders": 0,
+    "diagnostics": {
+      "eligible": [],
+      "filtered": [],
+      "panel_rows": 264,
+      "reason": "历史数据不足"
+    }
+  },
+  {
+    "date": "2022-02-28",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "510300.SH": 0.3,
+      "600519.SH": 0.2592231252501853,
+      "600036.SH": 0.22226865806059637,
+      "300750.SZ": 0.21850821668921833
+    },
+    "approved_weights": {
+      "510300.SH": 0.2,
+      "600519.SH": 0.2,
+      "600036.SH": 0.2,
+      "300750.SZ": 0.2
+    },
+    "cash_weight": 0.0,
+    "risk_state": "GREEN",
+    "risk_approved": true,
+    "risk_reasons": [
+      "510300.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "600519.SH 目标权重 25.9% 超过单资产上限 20%，已裁剪",
+      "600036.SH 目标权重 22.2% 超过单资产上限 20%，已裁剪",
+      "300750.SZ 目标权重 21.9% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 4,
+    "diagnostics": {
+      "eligible": [
+        "600036.SH",
+        "300750.SZ",
+        "510300.SH",
+        "600519.SH"
+      ],
+      "filtered": [
+        "601318.SH",
+        "000333.SZ",
+        "510500.SH",
+        "511010.SH",
+        "511880.SH",
+        "518880.SH"
+      ],
+      "panel_rows": 280
+    }
+  },
+  {
+    "date": "2022-03-31",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "510300.SH": 0.29295201089975514,
+      "600519.SH": 0.263551430752606,
+      "300750.SZ": 0.22525826658316467,
+      "600036.SH": 0.21823829176447415
+    },
+    "approved_weights": {
+      "510300.SH": 0.2,
+      "600519.SH": 0.2,
+      "300750.SZ": 0.2,
+      "600036.SH": 0.2
+    },
+    "cash_weight": 1.1102230246251565e-16,
+    "risk_state": "YELLOW",
+    "risk_approved": true,
+    "risk_reasons": [
+      "510300.SH 目标权重 29.3% 超过单资产上限 20%，已裁剪",
+      "600519.SH 目标权重 26.4% 超过单资产上限 20%，已裁剪",
+      "300750.SZ 目标权重 22.5% 超过单资产上限 20%，已裁剪",
+      "600036.SH 目标权重 21.8% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 0,
+    "diagnostics": {
+      "eligible": [
+        "300750.SZ",
+        "600036.SH",
+        "600519.SH",
+        "510300.SH"
+      ],
+      "filtered": [
+        "601318.SH",
+        "000333.SZ",
+        "510500.SH",
+        "511010.SH",
+        "511880.SH",
+        "518880.SH"
+      ],
+      "panel_rows": 303
+    }
+  },
+  {
+    "date": "2022-04-29",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "511880.SH": 0.3,
+      "510300.SH": 0.27974678140673376,
+      "300750.SZ": 0.21835619602447792,
+      "600036.SH": 0.2018970225687884
+    },
+    "approved_weights": {
+      "511880.SH": 0.2,
+      "510300.SH": 0.2,
+      "300750.SZ": 0.2,
+      "600036.SH": 0.2
+    },
+    "cash_weight": 0.0,
+    "risk_state": "GREEN",
+    "risk_approved": true,
+    "risk_reasons": [
+      "511880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "510300.SH 目标权重 28.0% 超过单资产上限 20%，已裁剪",
+      "300750.SZ 目标权重 21.8% 超过单资产上限 20%，已裁剪",
+      "600036.SH 目标权重 20.2% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 4,
+    "diagnostics": {
+      "eligible": [
+        "300750.SZ",
+        "600036.SH",
+        "510300.SH",
+        "511880.SH"
+      ],
+      "filtered": [
+        "600519.SH",
+        "601318.SH",
+        "000333.SZ",
+        "510500.SH",
+        "511010.SH",
+        "518880.SH"
+      ],
+      "panel_rows": 322
+    }
+  },
+  {
+    "date": "2022-05-31",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "511880.SH": 0.3,
+      "510300.SH": 0.2795234609776812,
+      "300750.SZ": 0.21574986709053695,
+      "600036.SH": 0.20472667193178176
+    },
+    "approved_weights": {
+      "511880.SH": 0.2,
+      "510300.SH": 0.2,
+      "300750.SZ": 0.2,
+      "600036.SH": 0.2
+    },
+    "cash_weight": 2.220446049250313e-16,
+    "risk_state": "GREEN",
+    "risk_approved": true,
+    "risk_reasons": [
+      "511880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "510300.SH 目标权重 28.0% 超过单资产上限 20%，已裁剪",
+      "300750.SZ 目标权重 21.6% 超过单资产上限 20%，已裁剪",
+      "600036.SH 目标权重 20.5% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 3,
+    "diagnostics": {
+      "eligible": [
+        "600036.SH",
+        "300750.SZ",
+        "510300.SH",
+        "511880.SH"
+      ],
+      "filtered": [
+        "600519.SH",
+        "601318.SH",
+        "000333.SZ",
+        "510500.SH",
+        "511010.SH",
+        "518880.SH"
+      ],
+      "panel_rows": 341
+    }
+  },
+  {
+    "date": "2022-06-30",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {},
+    "approved_weights": {},
+    "cash_weight": 1.0,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "风险状态 RED（当前回撤 13.1%）：总敞口上限 20.0%，允许资产间轮动，禁止突破该上限"
+    ],
+    "orders": 0,
+    "diagnostics": {
+      "eligible": [],
+      "filtered": [
+        "600519.SH",
+        "601318.SH",
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH",
+        "511010.SH",
+        "511880.SH",
+        "518880.SH"
+      ],
+      "panel_rows": 362,
+      "reason": "无资产通过趋势与绝对动量过滤"
+    }
+  },
+  {
+    "date": "2022-07-29",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "511010.SH": 0.3
+    },
+    "approved_weights": {
+      "511010.SH": 0.2
+    },
+    "cash_weight": 0.7,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 19.0% 达到紧急阈值，总敞口压降至 20.0%",
+      "风险状态 RED（当前回撤 19.0%）：总敞口上限 20.0%，允许资产间轮动，禁止突破该上限",
+      "511010.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 5,
+    "diagnostics": {
+      "eligible": [
+        "511010.SH"
+      ],
+      "filtered": [
+        "600519.SH",
+        "601318.SH",
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH",
+        "511880.SH",
+        "518880.SH"
+      ],
+      "panel_rows": 383
+    }
+  },
+  {
+    "date": "2022-08-31",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "511010.SH": 0.3
+    },
+    "approved_weights": {
+      "511010.SH": 0.2
+    },
+    "cash_weight": 0.7,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 18.7% 达到紧急阈值，总敞口压降至 20.8%",
+      "风险状态 RED（当前回撤 18.7%）：总敞口上限 20.8%，允许资产间轮动，禁止突破该上限",
+      "511010.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 0,
+    "diagnostics": {
+      "eligible": [
+        "511010.SH"
+      ],
+      "filtered": [
+        "600519.SH",
+        "601318.SH",
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH",
+        "511880.SH",
+        "518880.SH"
+      ],
+      "panel_rows": 406
+    }
+  },
+  {
+    "date": "2022-09-30",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "511010.SH": 0.3
+    },
+    "approved_weights": {
+      "511010.SH": 0.2
+    },
+    "cash_weight": 0.7,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 18.7% 达到紧急阈值，总敞口压降至 20.7%",
+      "风险状态 RED（当前回撤 18.7%）：总敞口上限 20.7%，允许资产间轮动，禁止突破该上限",
+      "511010.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 0,
+    "diagnostics": {
+      "eligible": [
+        "511010.SH"
+      ],
+      "filtered": [
+        "600519.SH",
+        "601318.SH",
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH",
+        "511880.SH",
+        "518880.SH"
+      ],
+      "panel_rows": 427
+    }
+  },
+  {
+    "date": "2022-10-31",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "518880.SH": 0.3,
+      "511010.SH": 0.3
+    },
+    "approved_weights": {
+      "518880.SH": 0.10320942281562369,
+      "511010.SH": 0.10320942281562369
+    },
+    "cash_weight": 0.4,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 18.8% 达到紧急阈值，总敞口压降至 20.6%",
+      "风险状态 RED（当前回撤 18.8%）：总敞口上限 20.6%，允许资产间轮动，禁止突破该上限",
+      "518880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511010.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 2,
+    "diagnostics": {
+      "eligible": [
+        "518880.SH",
+        "511010.SH"
+      ],
+      "filtered": [
+        "600519.SH",
+        "601318.SH",
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH",
+        "511880.SH"
+      ],
+      "panel_rows": 443
+    }
+  },
+  {
+    "date": "2022-11-30",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "518880.SH": 0.3,
+      "511010.SH": 0.3,
+      "511880.SH": 0.3
+    },
+    "approved_weights": {
+      "518880.SH": 0.06809499314410401,
+      "511010.SH": 0.06809499314410401,
+      "511880.SH": 0.06809499314410401
+    },
+    "cash_weight": 0.10000000000000009,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 19.1% 达到紧急阈值，总敞口压降至 20.4%",
+      "风险状态 RED（当前回撤 19.1%）：总敞口上限 20.4%，允许资产间轮动，禁止突破该上限",
+      "518880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511010.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 3,
+    "diagnostics": {
+      "eligible": [
+        "518880.SH",
+        "511010.SH",
+        "511880.SH"
+      ],
+      "filtered": [
+        "600519.SH",
+        "601318.SH",
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH"
+      ],
+      "panel_rows": 465
+    }
+  },
+  {
+    "date": "2022-12-30",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "511010.SH": 0.3,
+      "511880.SH": 0.3
+    },
+    "approved_weights": {
+      "511010.SH": 0.1,
+      "511880.SH": 0.1
+    },
+    "cash_weight": 0.4,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 19.3% 达到紧急阈值，总敞口压降至 20.0%",
+      "风险状态 RED（当前回撤 19.3%）：总敞口上限 20.0%，允许资产间轮动，禁止突破该上限",
+      "511010.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 3,
+    "diagnostics": {
+      "eligible": [
+        "511010.SH",
+        "511880.SH"
+      ],
+      "filtered": [
+        "600519.SH",
+        "601318.SH",
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH",
+        "518880.SH"
+      ],
+      "panel_rows": 487
+    }
+  },
+  {
+    "date": "2023-01-31",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "511010.SH": 0.3
+    },
+    "approved_weights": {
+      "511010.SH": 0.2
+    },
+    "cash_weight": 0.7,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 19.2% 达到紧急阈值，总敞口压降至 20.0%",
+      "风险状态 RED（当前回撤 19.2%）：总敞口上限 20.0%，允许资产间轮动，禁止突破该上限",
+      "511010.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 2,
+    "diagnostics": {
+      "eligible": [
+        "511010.SH"
+      ],
+      "filtered": [
+        "600519.SH",
+        "601318.SH",
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH",
+        "511880.SH",
+        "518880.SH"
+      ],
+      "panel_rows": 503
+    }
+  },
+  {
+    "date": "2023-02-28",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "511010.SH": 0.3,
+      "511880.SH": 0.3
+    },
+    "approved_weights": {
+      "511010.SH": 0.1,
+      "511880.SH": 0.1
+    },
+    "cash_weight": 0.4,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 19.0% 达到紧急阈值，总敞口压降至 20.0%",
+      "风险状态 RED（当前回撤 19.0%）：总敞口上限 20.0%，允许资产间轮动，禁止突破该上限",
+      "511010.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 2,
+    "diagnostics": {
+      "eligible": [
+        "511010.SH",
+        "511880.SH"
+      ],
+      "filtered": [
+        "600519.SH",
+        "601318.SH",
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH",
+        "518880.SH"
+      ],
+      "panel_rows": 523
+    }
+  },
+  {
+    "date": "2023-03-31",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "511010.SH": 0.3
+    },
+    "approved_weights": {
+      "511010.SH": 0.2
+    },
+    "cash_weight": 0.7,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 19.1% 达到紧急阈值，总敞口压降至 20.0%",
+      "风险状态 RED（当前回撤 19.1%）：总敞口上限 20.0%，允许资产间轮动，禁止突破该上限",
+      "511010.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 2,
+    "diagnostics": {
+      "eligible": [
+        "511010.SH"
+      ],
+      "filtered": [
+        "600519.SH",
+        "601318.SH",
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH",
+        "511880.SH",
+        "518880.SH"
+      ],
+      "panel_rows": 546
+    }
+  },
+  {
+    "date": "2023-04-28",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "511010.SH": 0.3,
+      "511880.SH": 0.3
+    },
+    "approved_weights": {
+      "511010.SH": 0.1,
+      "511880.SH": 0.1
+    },
+    "cash_weight": 0.4,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 19.0% 达到紧急阈值，总敞口压降至 20.0%",
+      "风险状态 RED（当前回撤 19.0%）：总敞口上限 20.0%，允许资产间轮动，禁止突破该上限",
+      "511010.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 2,
+    "diagnostics": {
+      "eligible": [
+        "511010.SH",
+        "511880.SH"
+      ],
+      "filtered": [
+        "600519.SH",
+        "601318.SH",
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH",
+        "518880.SH"
+      ],
+      "panel_rows": 565
+    }
+  },
+  {
+    "date": "2023-05-31",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "518880.SH": 0.3,
+      "511880.SH": 0.3
+    },
+    "approved_weights": {
+      "518880.SH": 0.1,
+      "511880.SH": 0.1
+    },
+    "cash_weight": 0.4,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 19.1% 达到紧急阈值，总敞口压降至 20.0%",
+      "风险状态 RED（当前回撤 19.1%）：总敞口上限 20.0%，允许资产间轮动，禁止突破该上限",
+      "518880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 2,
+    "diagnostics": {
+      "eligible": [
+        "518880.SH",
+        "511880.SH"
+      ],
+      "filtered": [
+        "600519.SH",
+        "601318.SH",
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH",
+        "511010.SH"
+      ],
+      "panel_rows": 585
+    }
+  },
+  {
+    "date": "2023-06-30",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "518880.SH": 0.3,
+      "511010.SH": 0.3,
+      "511880.SH": 0.3
+    },
+    "approved_weights": {
+      "518880.SH": 0.06772733334777489,
+      "511010.SH": 0.06772733334777489,
+      "511880.SH": 0.06772733334777489
+    },
+    "cash_weight": 0.10000000000000009,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 18.9% 达到紧急阈值，总敞口压降至 20.3%",
+      "风险状态 RED（当前回撤 18.9%）：总敞口上限 20.3%，允许资产间轮动，禁止突破该上限",
+      "518880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511010.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 3,
+    "diagnostics": {
+      "eligible": [
+        "518880.SH",
+        "511010.SH",
+        "511880.SH"
+      ],
+      "filtered": [
+        "600519.SH",
+        "601318.SH",
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH"
+      ],
+      "panel_rows": 605
+    }
+  },
+  {
+    "date": "2023-07-31",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "518880.SH": 0.3,
+      "511010.SH": 0.3,
+      "511880.SH": 0.3
+    },
+    "approved_weights": {
+      "518880.SH": 0.06666666666666667,
+      "511010.SH": 0.06666666666666667,
+      "511880.SH": 0.06666666666666667
+    },
+    "cash_weight": 0.10000000000000009,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 19.2% 达到紧急阈值，总敞口压降至 20.0%",
+      "风险状态 RED（当前回撤 19.2%）：总敞口上限 20.0%，允许资产间轮动，禁止突破该上限",
+      "518880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511010.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 0,
+    "diagnostics": {
+      "eligible": [
+        "518880.SH",
+        "511010.SH",
+        "511880.SH"
+      ],
+      "filtered": [
+        "600519.SH",
+        "601318.SH",
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH"
+      ],
+      "panel_rows": 626
+    }
+  },
+  {
+    "date": "2023-08-31",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "511010.SH": 0.3,
+      "511880.SH": 0.3,
+      "518880.SH": 0.27518163522436334,
+      "601318.SH": 0.12481836477563665
+    },
+    "approved_weights": {
+      "511010.SH": 0.05,
+      "511880.SH": 0.05,
+      "518880.SH": 0.05,
+      "601318.SH": 0.05
+    },
+    "cash_weight": 0.0,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 19.3% 达到紧急阈值，总敞口压降至 20.0%",
+      "风险状态 RED（当前回撤 19.3%）：总敞口上限 20.0%，允许资产间轮动，禁止突破该上限",
+      "511010.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "518880.SH 目标权重 27.5% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 3,
+    "diagnostics": {
+      "eligible": [
+        "511010.SH",
+        "601318.SH",
+        "511880.SH",
+        "518880.SH"
+      ],
+      "filtered": [
+        "600519.SH",
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH"
+      ],
+      "panel_rows": 649
+    }
+  },
+  {
+    "date": "2023-09-28",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "511010.SH": 0.3,
+      "511880.SH": 0.3,
+      "601318.SH": 0.2037674514531279,
+      "000333.SZ": 0.19623254854687194
+    },
+    "approved_weights": {
+      "511010.SH": 0.05,
+      "511880.SH": 0.05,
+      "601318.SH": 0.05,
+      "000333.SZ": 0.05
+    },
+    "cash_weight": 2.220446049250313e-16,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 19.4% 达到紧急阈值，总敞口压降至 20.0%",
+      "风险状态 RED（当前回撤 19.4%）：总敞口上限 20.0%，允许资产间轮动，禁止突破该上限",
+      "511010.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "601318.SH 目标权重 20.4% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 2,
+    "diagnostics": {
+      "eligible": [
+        "601318.SH",
+        "511010.SH",
+        "000333.SZ",
+        "511880.SH"
+      ],
+      "filtered": [
+        "600519.SH",
+        "600036.SH",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH",
+        "518880.SH"
+      ],
+      "panel_rows": 669
+    }
+  },
+  {
+    "date": "2023-10-31",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "511880.SH": 0.3,
+      "511010.SH": 0.3,
+      "000333.SZ": 0.20177528105084325,
+      "601318.SH": 0.1982247189491567
+    },
+    "approved_weights": {
+      "511880.SH": 0.05223521432967751,
+      "511010.SH": 0.05223521432967751,
+      "000333.SZ": 0.05223521432967751,
+      "601318.SH": 0.05223521432967751
+    },
+    "cash_weight": 1.1102230246251565e-16,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 19.6% 达到紧急阈值，总敞口压降至 20.9%",
+      "风险状态 RED（当前回撤 19.6%）：总敞口上限 20.9%，允许资产间轮动，禁止突破该上限",
+      "511880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511010.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "000333.SZ 目标权重 20.2% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 1,
+    "diagnostics": {
+      "eligible": [
+        "601318.SH",
+        "000333.SZ",
+        "511010.SH",
+        "511880.SH"
+      ],
+      "filtered": [
+        "600519.SH",
+        "600036.SH",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH",
+        "518880.SH"
+      ],
+      "panel_rows": 686
+    }
+  },
+  {
+    "date": "2023-11-30",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "000333.SZ": 0.3,
+      "511010.SH": 0.3,
+      "511880.SH": 0.3
+    },
+    "approved_weights": {
+      "000333.SZ": 0.06666666666666667,
+      "511010.SH": 0.06666666666666667,
+      "511880.SH": 0.06666666666666667
+    },
+    "cash_weight": 0.10000000000000009,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 19.9% 达到紧急阈值，总敞口压降至 20.0%",
+      "风险状态 RED（当前回撤 19.9%）：总敞口上限 20.0%，允许资产间轮动，禁止突破该上限",
+      "000333.SZ 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511010.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 3,
+    "diagnostics": {
+      "eligible": [
+        "000333.SZ",
+        "511010.SH",
+        "511880.SH"
+      ],
+      "filtered": [
+        "600519.SH",
+        "601318.SH",
+        "600036.SH",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH",
+        "518880.SH"
+      ],
+      "panel_rows": 708
+    }
+  },
+  {
+    "date": "2023-12-29",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "511010.SH": 0.3,
+      "511880.SH": 0.3
+    },
+    "approved_weights": {
+      "511010.SH": 0.1,
+      "511880.SH": 0.1
+    },
+    "cash_weight": 0.4,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 20.6% 达到紧急阈值，总敞口压降至 20.0%",
+      "风险状态 RED（当前回撤 20.6%）：总敞口上限 20.0%，允许资产间轮动，禁止突破该上限",
+      "511010.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 3,
+    "diagnostics": {
+      "eligible": [
+        "511010.SH",
+        "511880.SH"
+      ],
+      "filtered": [
+        "600519.SH",
+        "601318.SH",
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH",
+        "518880.SH"
+      ],
+      "panel_rows": 729
+    }
+  },
+  {
+    "date": "2024-01-31",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "511010.SH": 0.3,
+      "511880.SH": 0.3
+    },
+    "approved_weights": {
+      "511010.SH": 0.1,
+      "511880.SH": 0.1
+    },
+    "cash_weight": 0.4,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 20.5% 达到紧急阈值，总敞口压降至 20.0%",
+      "风险状态 RED（当前回撤 20.5%）：总敞口上限 20.0%，允许资产间轮动，禁止突破该上限",
+      "511010.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 0,
+    "diagnostics": {
+      "eligible": [
+        "511010.SH",
+        "511880.SH"
+      ],
+      "filtered": [
+        "600519.SH",
+        "601318.SH",
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH",
+        "518880.SH"
+      ],
+      "panel_rows": 751
+    }
+  },
+  {
+    "date": "2024-02-29",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "600519.SH": 0.3,
+      "511010.SH": 0.3,
+      "511880.SH": 0.3
+    },
+    "approved_weights": {
+      "600519.SH": 0.06666666666666667,
+      "511010.SH": 0.06666666666666667,
+      "511880.SH": 0.06666666666666667
+    },
+    "cash_weight": 0.10000000000000009,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 20.7% 达到紧急阈值，总敞口压降至 20.0%",
+      "风险状态 RED（当前回撤 20.7%）：总敞口上限 20.0%，允许资产间轮动，禁止突破该上限",
+      "600519.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511010.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 3,
+    "diagnostics": {
+      "eligible": [
+        "600519.SH",
+        "511010.SH",
+        "511880.SH"
+      ],
+      "filtered": [
+        "601318.SH",
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH",
+        "518880.SH"
+      ],
+      "panel_rows": 766
+    }
+  },
+  {
+    "date": "2024-03-29",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "510300.SH": 0.2848995322329185,
+      "510500.SH": 0.27008281170605714,
+      "600519.SH": 0.24684620645665617,
+      "601318.SH": 0.19817144960436814
+    },
+    "approved_weights": {
+      "510300.SH": 0.04666666666666666,
+      "510500.SH": 0.04666666666666666,
+      "600519.SH": 0.05333333333333334,
+      "601318.SH": 0.05333333333333334
+    },
+    "cash_weight": 1.1102230246251565e-16,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 20.4% 达到紧急阈值，总敞口压降至 20.0%",
+      "风险状态 RED（当前回撤 20.4%）：总敞口上限 20.0%，允许资产间轮动，禁止突破该上限",
+      "510300.SH 目标权重 28.5% 超过单资产上限 20%，已裁剪",
+      "510500.SH 目标权重 27.0% 超过单资产上限 20%，已裁剪",
+      "600519.SH 目标权重 24.7% 超过单资产上限 20%，已裁剪",
+      "行业 宽基指数 目标暴露 55.5% 超过上限 35%，已裁剪"
+    ],
+    "orders": 6,
+    "diagnostics": {
+      "eligible": [
+        "600519.SH",
+        "601318.SH",
+        "510300.SH",
+        "510500.SH"
+      ],
+      "filtered": [
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "511010.SH",
+        "511880.SH",
+        "518880.SH"
+      ],
+      "panel_rows": 787
+    }
+  },
+  {
+    "date": "2024-04-30",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "511880.SH": 0.3,
+      "510500.SH": 0.2761541077474454,
+      "600519.SH": 0.23296490494495603,
+      "600036.SH": 0.1908809873075986
+    },
+    "approved_weights": {
+      "511880.SH": 0.05,
+      "510500.SH": 0.05,
+      "600519.SH": 0.05,
+      "600036.SH": 0.05
+    },
+    "cash_weight": 0.0,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 21.2% 达到紧急阈值，总敞口压降至 20.0%",
+      "风险状态 RED（当前回撤 21.2%）：总敞口上限 20.0%，允许资产间轮动，禁止突破该上限",
+      "511880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "510500.SH 目标权重 27.6% 超过单资产上限 20%，已裁剪",
+      "600519.SH 目标权重 23.3% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 6,
+    "diagnostics": {
+      "eligible": [
+        "600519.SH",
+        "510500.SH",
+        "600036.SH",
+        "511880.SH"
+      ],
+      "filtered": [
+        "601318.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "511010.SH",
+        "518880.SH"
+      ],
+      "panel_rows": 807
+    }
+  },
+  {
+    "date": "2024-05-31",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "600519.SH": 0.3,
+      "511880.SH": 0.3
+    },
+    "approved_weights": {
+      "600519.SH": 0.1,
+      "511880.SH": 0.1
+    },
+    "cash_weight": 0.4,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 21.1% 达到紧急阈值，总敞口压降至 20.0%",
+      "风险状态 RED（当前回撤 21.1%）：总敞口上限 20.0%，允许资产间轮动，禁止突破该上限",
+      "600519.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 4,
+    "diagnostics": {
+      "eligible": [
+        "600519.SH",
+        "511880.SH"
+      ],
+      "filtered": [
+        "601318.SH",
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH",
+        "511010.SH",
+        "518880.SH"
+      ],
+      "panel_rows": 827
+    }
+  },
+  {
+    "date": "2024-06-28",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "600519.SH": 0.3,
+      "511880.SH": 0.3
+    },
+    "approved_weights": {
+      "600519.SH": 0.1,
+      "511880.SH": 0.1
+    },
+    "cash_weight": 0.4,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 21.4% 达到紧急阈值，总敞口压降至 20.0%",
+      "风险状态 RED（当前回撤 21.4%）：总敞口上限 20.0%，允许资产间轮动，禁止突破该上限",
+      "600519.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 0,
+    "diagnostics": {
+      "eligible": [
+        "600519.SH",
+        "511880.SH"
+      ],
+      "filtered": [
+        "601318.SH",
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH",
+        "511010.SH",
+        "518880.SH"
+      ],
+      "panel_rows": 846
+    }
+  },
+  {
+    "date": "2024-07-31",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "511880.SH": 0.3
+    },
+    "approved_weights": {
+      "511880.SH": 0.2
+    },
+    "cash_weight": 0.7,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 21.6% 达到紧急阈值，总敞口压降至 20.0%",
+      "风险状态 RED（当前回撤 21.6%）：总敞口上限 20.0%，允许资产间轮动，禁止突破该上限",
+      "511880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 2,
+    "diagnostics": {
+      "eligible": [
+        "511880.SH"
+      ],
+      "filtered": [
+        "600519.SH",
+        "601318.SH",
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH",
+        "511010.SH",
+        "518880.SH"
+      ],
+      "panel_rows": 869
+    }
+  },
+  {
+    "date": "2024-08-30",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "510500.SH": 0.3,
+      "511880.SH": 0.3
+    },
+    "approved_weights": {
+      "510500.SH": 0.10011531897593891,
+      "511880.SH": 0.10011531897593891
+    },
+    "cash_weight": 0.4,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 21.6% 达到紧急阈值，总敞口压降至 20.0%",
+      "风险状态 RED（当前回撤 21.6%）：总敞口上限 20.0%，允许资产间轮动，禁止突破该上限",
+      "510500.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 2,
+    "diagnostics": {
+      "eligible": [
+        "510500.SH",
+        "511880.SH"
+      ],
+      "filtered": [
+        "600519.SH",
+        "601318.SH",
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "511010.SH",
+        "518880.SH"
+      ],
+      "panel_rows": 891
+    }
+  },
+  {
+    "date": "2024-09-30",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "510500.SH": 0.3,
+      "600519.SH": 0.3,
+      "511880.SH": 0.3
+    },
+    "approved_weights": {
+      "510500.SH": 0.0710911210353107,
+      "600519.SH": 0.0710911210353107,
+      "511880.SH": 0.0710911210353107
+    },
+    "cash_weight": 0.10000000000000009,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 20.5% 达到紧急阈值，总敞口压降至 21.3%",
+      "风险状态 RED（当前回撤 20.5%）：总敞口上限 21.3%，允许资产间轮动，禁止突破该上限",
+      "510500.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "600519.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 3,
+    "diagnostics": {
+      "eligible": [
+        "510500.SH",
+        "600519.SH",
+        "511880.SH"
+      ],
+      "filtered": [
+        "601318.SH",
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "511010.SH",
+        "518880.SH"
+      ],
+      "panel_rows": 910
+    }
+  },
+  {
+    "date": "2024-10-31",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "511880.SH": 0.3,
+      "511010.SH": 0.3,
+      "510500.SH": 0.23564152927495757,
+      "300750.SZ": 0.1643584707250424
+    },
+    "approved_weights": {
+      "511880.SH": 0.05,
+      "511010.SH": 0.05,
+      "510500.SH": 0.05,
+      "300750.SZ": 0.05
+    },
+    "cash_weight": 1.1102230246251565e-16,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 21.2% 达到紧急阈值，总敞口压降至 20.0%",
+      "风险状态 RED（当前回撤 21.2%）：总敞口上限 20.0%，允许资产间轮动，禁止突破该上限",
+      "511880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511010.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "510500.SH 目标权重 23.6% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 5,
+    "diagnostics": {
+      "eligible": [
+        "510500.SH",
+        "300750.SZ",
+        "511010.SH",
+        "511880.SH"
+      ],
+      "filtered": [
+        "600519.SH",
+        "601318.SH",
+        "600036.SH",
+        "000333.SZ",
+        "510300.SH",
+        "518880.SH"
+      ],
+      "panel_rows": 928
+    }
+  },
+  {
+    "date": "2024-11-29",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "511010.SH": 0.3,
+      "511880.SH": 0.3
+    },
+    "approved_weights": {
+      "511010.SH": 0.1,
+      "511880.SH": 0.1
+    },
+    "cash_weight": 0.4,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 22.0% 达到紧急阈值，总敞口压降至 20.0%",
+      "风险状态 RED（当前回撤 22.0%）：总敞口上限 20.0%，允许资产间轮动，禁止突破该上限",
+      "511010.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 4,
+    "diagnostics": {
+      "eligible": [
+        "511010.SH",
+        "511880.SH"
+      ],
+      "filtered": [
+        "600519.SH",
+        "601318.SH",
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH",
+        "518880.SH"
+      ],
+      "panel_rows": 949
+    }
+  },
+  {
+    "date": "2024-12-31",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "511010.SH": 0.3,
+      "511880.SH": 0.3
+    },
+    "approved_weights": {
+      "511010.SH": 0.1,
+      "511880.SH": 0.1
+    },
+    "cash_weight": 0.4,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 21.9% 达到紧急阈值，总敞口压降至 20.0%",
+      "风险状态 RED（当前回撤 21.9%）：总敞口上限 20.0%，允许资产间轮动，禁止突破该上限",
+      "511010.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 0,
+    "diagnostics": {
+      "eligible": [
+        "511010.SH",
+        "511880.SH"
+      ],
+      "filtered": [
+        "600519.SH",
+        "601318.SH",
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH",
+        "518880.SH"
+      ],
+      "panel_rows": 971
+    }
+  },
+  {
+    "date": "2025-01-24",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "511010.SH": 0.3,
+      "511880.SH": 0.3
+    },
+    "approved_weights": {
+      "511010.SH": 0.10006365002693993,
+      "511880.SH": 0.10006365002693993
+    },
+    "cash_weight": 0.4,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 21.8% 达到紧急阈值，总敞口压降至 20.0%",
+      "风险状态 RED（当前回撤 21.8%）：总敞口上限 20.0%，允许资产间轮动，禁止突破该上限",
+      "511010.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 0,
+    "diagnostics": {
+      "eligible": [
+        "511010.SH",
+        "511880.SH"
+      ],
+      "filtered": [
+        "600519.SH",
+        "601318.SH",
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH",
+        "518880.SH"
+      ],
+      "panel_rows": 988
+    }
+  },
+  {
+    "date": "2025-02-28",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "511010.SH": 0.3,
+      "511880.SH": 0.3
+    },
+    "approved_weights": {
+      "511010.SH": 0.1,
+      "511880.SH": 0.1
+    },
+    "cash_weight": 0.4,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 21.9% 达到紧急阈值，总敞口压降至 20.0%",
+      "风险状态 RED（当前回撤 21.9%）：总敞口上限 20.0%，允许资产间轮动，禁止突破该上限",
+      "511010.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 0,
+    "diagnostics": {
+      "eligible": [
+        "511010.SH",
+        "511880.SH"
+      ],
+      "filtered": [
+        "600519.SH",
+        "601318.SH",
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH",
+        "518880.SH"
+      ],
+      "panel_rows": 1006
+    }
+  },
+  {
+    "date": "2025-03-31",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "518880.SH": 0.3,
+      "511010.SH": 0.3
+    },
+    "approved_weights": {
+      "518880.SH": 0.1,
+      "511010.SH": 0.1
+    },
+    "cash_weight": 0.4,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 21.8% 达到紧急阈值，总敞口压降至 20.0%",
+      "风险状态 RED（当前回撤 21.8%）：总敞口上限 20.0%，允许资产间轮动，禁止突破该上限",
+      "518880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511010.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 2,
+    "diagnostics": {
+      "eligible": [
+        "518880.SH",
+        "511010.SH"
+      ],
+      "filtered": [
+        "600519.SH",
+        "601318.SH",
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH",
+        "511880.SH"
+      ],
+      "panel_rows": 1027
+    }
+  },
+  {
+    "date": "2025-04-30",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "518880.SH": 0.3,
+      "511010.SH": 0.3
+    },
+    "approved_weights": {
+      "518880.SH": 0.10179538988659223,
+      "511010.SH": 0.10179538988659223
+    },
+    "cash_weight": 0.4,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 21.6% 达到紧急阈值，总敞口压降至 20.4%",
+      "风险状态 RED（当前回撤 21.6%）：总敞口上限 20.4%，允许资产间轮动，禁止突破该上限",
+      "518880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511010.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 0,
+    "diagnostics": {
+      "eligible": [
+        "518880.SH",
+        "511010.SH"
+      ],
+      "filtered": [
+        "600519.SH",
+        "601318.SH",
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH",
+        "511880.SH"
+      ],
+      "panel_rows": 1048
+    }
+  },
+  {
+    "date": "2025-05-30",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "518880.SH": 0.3,
+      "511010.SH": 0.3
+    },
+    "approved_weights": {
+      "518880.SH": 0.1,
+      "511010.SH": 0.1
+    },
+    "cash_weight": 0.4,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 22.0% 达到紧急阈值，总敞口压降至 20.0%",
+      "风险状态 RED（当前回撤 22.0%）：总敞口上限 20.0%，允许资产间轮动，禁止突破该上限",
+      "518880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511010.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 0,
+    "diagnostics": {
+      "eligible": [
+        "518880.SH",
+        "511010.SH"
+      ],
+      "filtered": [
+        "600519.SH",
+        "601318.SH",
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH",
+        "511880.SH"
+      ],
+      "panel_rows": 1067
+    }
+  },
+  {
+    "date": "2025-06-30",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "518880.SH": 0.3,
+      "511010.SH": 0.3,
+      "511880.SH": 0.3
+    },
+    "approved_weights": {
+      "518880.SH": 0.06666666666666667,
+      "511010.SH": 0.06666666666666667,
+      "511880.SH": 0.06666666666666667
+    },
+    "cash_weight": 0.10000000000000009,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 22.1% 达到紧急阈值，总敞口压降至 20.0%",
+      "风险状态 RED（当前回撤 22.1%）：总敞口上限 20.0%，允许资产间轮动，禁止突破该上限",
+      "518880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511010.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 3,
+    "diagnostics": {
+      "eligible": [
+        "518880.SH",
+        "511010.SH",
+        "511880.SH"
+      ],
+      "filtered": [
+        "600519.SH",
+        "601318.SH",
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH"
+      ],
+      "panel_rows": 1087
+    }
+  },
+  {
+    "date": "2025-07-31",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "511010.SH": 0.3,
+      "511880.SH": 0.3
+    },
+    "approved_weights": {
+      "511010.SH": 0.1,
+      "511880.SH": 0.1
+    },
+    "cash_weight": 0.4,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 22.1% 达到紧急阈值，总敞口压降至 20.0%",
+      "风险状态 RED（当前回撤 22.1%）：总敞口上限 20.0%，允许资产间轮动，禁止突破该上限",
+      "511010.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 3,
+    "diagnostics": {
+      "eligible": [
+        "511010.SH",
+        "511880.SH"
+      ],
+      "filtered": [
+        "600519.SH",
+        "601318.SH",
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH",
+        "518880.SH"
+      ],
+      "panel_rows": 1110
+    }
+  },
+  {
+    "date": "2025-08-29",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "511010.SH": 0.3,
+      "518880.SH": 0.3,
+      "511880.SH": 0.3
+    },
+    "approved_weights": {
+      "511010.SH": 0.06666666666666667,
+      "518880.SH": 0.06666666666666667,
+      "511880.SH": 0.06666666666666667
+    },
+    "cash_weight": 0.10000000000000009,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 22.1% 达到紧急阈值，总敞口压降至 20.0%",
+      "风险状态 RED（当前回撤 22.1%）：总敞口上限 20.0%，允许资产间轮动，禁止突破该上限",
+      "511010.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "518880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 3,
+    "diagnostics": {
+      "eligible": [
+        "511010.SH",
+        "518880.SH",
+        "511880.SH"
+      ],
+      "filtered": [
+        "600519.SH",
+        "601318.SH",
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH"
+      ],
+      "panel_rows": 1131
+    }
+  },
+  {
+    "date": "2025-09-30",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "511010.SH": 0.3,
+      "518880.SH": 0.3,
+      "511880.SH": 0.3
+    },
+    "approved_weights": {
+      "511010.SH": 0.06849093236808976,
+      "518880.SH": 0.06849093236808976,
+      "511880.SH": 0.06849093236808976
+    },
+    "cash_weight": 0.10000000000000009,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 21.9% 达到紧急阈值，总敞口压降至 20.5%",
+      "风险状态 RED（当前回撤 21.9%）：总敞口上限 20.5%，允许资产间轮动，禁止突破该上限",
+      "511010.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "518880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 0,
+    "diagnostics": {
+      "eligible": [
+        "511010.SH",
+        "518880.SH",
+        "511880.SH"
+      ],
+      "filtered": [
+        "600519.SH",
+        "601318.SH",
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH"
+      ],
+      "panel_rows": 1153
+    }
+  },
+  {
+    "date": "2025-10-31",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "511010.SH": 0.3,
+      "518880.SH": 0.3,
+      "511880.SH": 0.3
+    },
+    "approved_weights": {
+      "511010.SH": 0.06894817582743548,
+      "518880.SH": 0.06894817582743548,
+      "511880.SH": 0.06894817582743548
+    },
+    "cash_weight": 0.10000000000000009,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 21.8% 达到紧急阈值，总敞口压降至 20.7%",
+      "风险状态 RED（当前回撤 21.8%）：总敞口上限 20.7%，允许资产间轮动，禁止突破该上限",
+      "511010.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "518880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 0,
+    "diagnostics": {
+      "eligible": [
+        "511010.SH",
+        "518880.SH",
+        "511880.SH"
+      ],
+      "filtered": [
+        "600519.SH",
+        "601318.SH",
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH"
+      ],
+      "panel_rows": 1170
+    }
+  },
+  {
+    "date": "2025-11-28",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "511010.SH": 0.3,
+      "511880.SH": 0.3
+    },
+    "approved_weights": {
+      "511010.SH": 0.1,
+      "511880.SH": 0.1
+    },
+    "cash_weight": 0.4,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 22.0% 达到紧急阈值，总敞口压降至 20.0%",
+      "风险状态 RED（当前回撤 22.0%）：总敞口上限 20.0%，允许资产间轮动，禁止突破该上限",
+      "511010.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 3,
+    "diagnostics": {
+      "eligible": [
+        "511010.SH",
+        "511880.SH"
+      ],
+      "filtered": [
+        "600519.SH",
+        "601318.SH",
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH",
+        "518880.SH"
+      ],
+      "panel_rows": 1190
+    }
+  },
+  {
+    "date": "2025-12-31",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "511010.SH": 0.3,
+      "511880.SH": 0.3
+    },
+    "approved_weights": {
+      "511010.SH": 0.1,
+      "511880.SH": 0.1
+    },
+    "cash_weight": 0.4,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 22.0% 达到紧急阈值，总敞口压降至 20.0%",
+      "风险状态 RED（当前回撤 22.0%）：总敞口上限 20.0%，允许资产间轮动，禁止突破该上限",
+      "511010.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 0,
+    "diagnostics": {
+      "eligible": [
+        "511010.SH",
+        "511880.SH"
+      ],
+      "filtered": [
+        "600519.SH",
+        "601318.SH",
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH",
+        "518880.SH"
+      ],
+      "panel_rows": 1213
+    }
+  },
+  {
+    "date": "2026-01-30",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "511010.SH": 0.3,
+      "511880.SH": 0.3
+    },
+    "approved_weights": {
+      "511010.SH": 0.1,
+      "511880.SH": 0.1
+    },
+    "cash_weight": 0.4,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 22.1% 达到紧急阈值，总敞口压降至 20.0%",
+      "风险状态 RED（当前回撤 22.1%）：总敞口上限 20.0%，允许资产间轮动，禁止突破该上限",
+      "511010.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 0,
+    "diagnostics": {
+      "eligible": [
+        "511010.SH",
+        "511880.SH"
+      ],
+      "filtered": [
+        "600519.SH",
+        "601318.SH",
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH",
+        "518880.SH"
+      ],
+      "panel_rows": 1233
+    }
+  },
+  {
+    "date": "2026-02-27",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "511010.SH": 0.3,
+      "511880.SH": 0.3
+    },
+    "approved_weights": {
+      "511010.SH": 0.1,
+      "511880.SH": 0.1
+    },
+    "cash_weight": 0.4,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 22.1% 达到紧急阈值，总敞口压降至 20.0%",
+      "风险状态 RED（当前回撤 22.1%）：总敞口上限 20.0%，允许资产间轮动，禁止突破该上限",
+      "511010.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 0,
+    "diagnostics": {
+      "eligible": [
+        "511010.SH",
+        "511880.SH"
+      ],
+      "filtered": [
+        "600519.SH",
+        "601318.SH",
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH",
+        "518880.SH"
+      ],
+      "panel_rows": 1248
+    }
+  },
+  {
+    "date": "2026-03-31",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {},
+    "approved_weights": {},
+    "cash_weight": 1.0,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 22.2% 达到紧急阈值，总敞口压降至 20.0%",
+      "风险状态 RED（当前回撤 22.2%）：总敞口上限 20.0%，允许资产间轮动，禁止突破该上限"
+    ],
+    "orders": 0,
+    "diagnostics": {
+      "eligible": [],
+      "filtered": [
+        "600519.SH",
+        "601318.SH",
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH",
+        "511010.SH",
+        "511880.SH",
+        "518880.SH"
+      ],
+      "panel_rows": 1270,
+      "reason": "无资产通过趋势与绝对动量过滤"
+    }
+  },
+  {
+    "date": "2026-04-30",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {},
+    "approved_weights": {},
+    "cash_weight": 1.0,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 22.2% 达到紧急阈值，总敞口压降至 20.0%",
+      "风险状态 RED（当前回撤 22.2%）：总敞口上限 20.0%，允许资产间轮动，禁止突破该上限"
+    ],
+    "orders": 0,
+    "diagnostics": {
+      "eligible": [],
+      "filtered": [
+        "600519.SH",
+        "601318.SH",
+        "600036.SH",
+        "000333.SZ",
+        "300750.SZ",
+        "510300.SH",
+        "510500.SH",
+        "511010.SH",
+        "511880.SH",
+        "518880.SH"
+      ],
+      "panel_rows": 1291,
+      "reason": "无资产通过趋势与绝对动量过滤"
+    }
+  },
+  {
+    "date": "2026-05-29",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "518880.SH": 0.3,
+      "511880.SH": 0.3,
+      "510300.SH": 0.24066858296545324,
+      "000333.SZ": 0.1593314170345466
+    },
+    "approved_weights": {
+      "518880.SH": 0.05,
+      "511880.SH": 0.05,
+      "510300.SH": 0.05,
+      "000333.SZ": 0.05
+    },
+    "cash_weight": 2.220446049250313e-16,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 22.3% 达到紧急阈值，总敞口压降至 20.0%",
+      "风险状态 RED（当前回撤 22.3%）：总敞口上限 20.0%，允许资产间轮动，禁止突破该上限",
+      "518880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "511880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "510300.SH 目标权重 24.1% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 5,
+    "diagnostics": {
+      "eligible": [
+        "518880.SH",
+        "000333.SZ",
+        "511880.SH",
+        "510300.SH"
+      ],
+      "filtered": [
+        "600519.SH",
+        "601318.SH",
+        "600036.SH",
+        "300750.SZ",
+        "510500.SH",
+        "511010.SH"
+      ],
+      "panel_rows": 1309
+    }
+  },
+  {
+    "date": "2026-06-30",
+    "strategy_id": "DUAL_MOMENTUM_V1",
+    "strategy_version": "1.0.0",
+    "target_weights": {
+      "511880.SH": 0.3,
+      "510300.SH": 0.2812541763716562,
+      "600519.SH": 0.22512153339221078,
+      "000333.SZ": 0.19362429023613284
+    },
+    "approved_weights": {
+      "511880.SH": 0.05,
+      "510300.SH": 0.05,
+      "600519.SH": 0.05,
+      "000333.SZ": 0.05
+    },
+    "cash_weight": 3.3306690738754696e-16,
+    "risk_state": "RED",
+    "risk_approved": true,
+    "risk_reasons": [
+      "回撤 22.1% 达到紧急阈值，总敞口压降至 20.0%",
+      "风险状态 RED（当前回撤 22.1%）：总敞口上限 20.0%，允许资产间轮动，禁止突破该上限",
+      "511880.SH 目标权重 30.0% 超过单资产上限 20%，已裁剪",
+      "510300.SH 目标权重 28.1% 超过单资产上限 20%，已裁剪",
+      "600519.SH 目标权重 22.5% 超过单资产上限 20%，已裁剪"
+    ],
+    "orders": 2,
+    "diagnostics": {
+      "eligible": [
+        "510300.SH",
+        "600519.SH",
+        "000333.SZ",
+        "511880.SH"
+      ],
+      "filtered": [
+        "601318.SH",
+        "600036.SH",
+        "300750.SZ",
+        "510500.SH",
+        "511010.SH",
+        "518880.SH"
+      ],
+      "panel_rows": 1330
+    }
+  }
+]
